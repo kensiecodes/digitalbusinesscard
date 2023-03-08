@@ -12,7 +12,7 @@ function App() {
         <div className="bio--section">
           
           <p>I'm a frontend developer using the MERN stack, with experience in Java and C. 
-            I'm sharing my journey as a software engineer, mom, gardener online.
+            I'm sharing my journey as a software engineer, mom, & gardener online.
           </p>
 
           <div className="link--buttons">
