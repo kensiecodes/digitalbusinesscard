@@ -4,9 +4,9 @@ This is a simple Linktree-style hub for all of my social links and important con
 
 **Link to project:**
 
-[See it live here]()
+[See it live here](https://kensiecodes.netlify.app/)
 
-![Gif of project](DigitalCard/src/assets/readmegif.gif)
+![Gif of project](public/readmegif.gif)
 
 ## How It's Made:
 
