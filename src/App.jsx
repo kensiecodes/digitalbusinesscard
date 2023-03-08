@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <div className="card">
-        <img src="src/assets/name.svg" alt="" className="name--logo"/>
-        <img src="src/assets/profile.svg" alt="" className="card--image" />
+        <img src="/name.svg" alt="" className="name--logo"/>
+        <img src="/profile.svg" alt="" className="card--image" />
 
         <div className="bio--section">
           
